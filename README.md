@@ -1,4 +1,12 @@
 # web_project_3
-the project's name;
-a description of the project and its functionality;
-a description of technologies and techniques used.
+
+
+
+## a description of the project and its functionality;
+  This project was about traveling in the US. It was mostly about teaching
+  us how to use @media, grids, fonts and image editing.
+
+
+### a description of technologies and techniques used.
+  We used Figma as a group for most of our information on what the website
+  should be like. We are using BEM methodology for our coding structure.
