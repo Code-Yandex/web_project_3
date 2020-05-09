@@ -6,10 +6,10 @@
   margin: 0;
   margin: 92px auto 24px;
   display: flex;
-  justify-content: space-between;
-  max-width: 1184px;
   padding-left: 48px;
   padding-right: 48px;
+  justify-content: space-between;
+  max-width: 1184px;
 }
 
 @media screen and (max-width: 1023px) {
@@ -23,8 +23,8 @@
 @media screen and (max-width: 600px) {
   .footer {
     margin: 64px auto 24px;
-    padding-left: 16px;
     padding-right: 16px;
+    padding-left: 16px;
     flex-direction: column;
   }
 }

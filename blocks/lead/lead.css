@@ -6,14 +6,14 @@
 .lead {
   display: flex;
   flex-direction: column;
-  max-width: 984px;
-  margin: 34px auto 0;
   text-align: center;
+  margin: 34px auto 0;
+  max-width: 984px;
 }
 
 @media screen and (min-width: 769px) and (max-width: 1024px) {
   .lead {
-    margin-left: 48px;
     margin-right: 48px;
+    margin-left: 48px;
   }
 }

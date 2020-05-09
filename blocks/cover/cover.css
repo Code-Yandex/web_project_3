@@ -4,8 +4,7 @@
 
 .cover {
   max-width: 1184px;
-  margin: 0 auto;
-  margin-top: 90px;
+  margin: 90px auto 0;
 }
 
 @media screen and (mx-width: 600px) {

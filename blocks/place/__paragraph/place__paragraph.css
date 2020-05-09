@@ -1,8 +1,8 @@
 .place__paragraph {
     margin: 0;
+    padding: 0;
     grid-area: paragraph;
     grid-row: auto;
-    padding: 0;
     font-size: 18px;
     line-height: 1.67;
   }
