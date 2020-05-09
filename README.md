@@ -12,4 +12,4 @@
   should be like. We are using BEM methodology for our coding structure.
 
 ### site
-  https://code-yandex.github.io/web_project_3/
+  * [Link](https://code-yandex.github.io/web_project_3/) to the project.
