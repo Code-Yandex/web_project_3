@@ -7,7 +7,7 @@
   margin: 90px auto 0;
 }
 
-@media screen and (mx-width: 600px) {
+@media screen and (max-width: 600px) {
   .cover {
     margin-top: 64px;
   }
