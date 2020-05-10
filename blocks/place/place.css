@@ -35,8 +35,9 @@
   }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
   .place {
+    grid-template-columns: 1fr;
     grid-template-areas:
       "title"
       "image"
