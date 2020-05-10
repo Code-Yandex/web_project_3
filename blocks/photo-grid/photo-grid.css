@@ -2,7 +2,7 @@
 
 .photo-grid {
   margin: 92px auto 0;
-  padding: 48px 0 48px;
+  padding: 48px 0;
   display: grid;
   list-style-type: none;
   max-width: 1184px;
